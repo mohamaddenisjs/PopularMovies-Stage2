@@ -23,7 +23,7 @@ public class URLContent {
     private static final String PAGE_QUERY_PARAMETER = "page";
     private static final String API_QUERY_PARAMETER = "api_key";
 
-    private static final String API_KEY_CONSTANT = "d3d24b7cfd41f457977066799293c841";
+    private static final String API_KEY_CONSTANT = "insert_api key";
 
     private static final String IMAGE_SIZE = "w342";
     private static final String IMAGE_SIZE_DETAIL = "w185";
