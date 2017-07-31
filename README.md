@@ -2,16 +2,19 @@
 Popular Movies stage 2 is a second project of Nanodegree Program Udacity.
 
 
-### Screenshots:
-Popularity
+## Screenshots:
+#### Popularity
 <img src="popularity.JPG" width="200" />
 
-Top Rated
+
+#### Top Rated
 <img src="TopRated.JPG" width="200" />
 
-Movie Details
+
+#### Movie Details
 <img src="MovieDetails.JPG" width="200" />
 
-Favorites
+
+#### Favorites
 <img src="Favorite.JPG" width="200" />
 
